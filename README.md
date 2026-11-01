@@ -1,4 +1,4 @@
-# ShopKart LLM
+# ShopKart LLM (llmdemo)
 
 A small chat fine-tuning starter using Hugging Face Transformers and PEFT LoRA. The included raw conversations are synthetic examples; replace them with approved, representative data before training.
 
